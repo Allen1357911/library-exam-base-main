@@ -1,0 +1,4 @@
+out/
+out-app/
+*.class
+.DS_Store
